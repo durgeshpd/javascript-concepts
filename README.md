@@ -20,3 +20,4 @@ This repository contains my learning notes and practice code for JavaScript conc
 - Event bubbling and capturing
 - Event-delegation
 - Debouncing
+- Throttling
