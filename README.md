@@ -19,3 +19,4 @@ This repository contains my learning notes and practice code for JavaScript conc
 - Call, Apply, and Method
 - Event bubbling and capturing
 - Event-delegation
+- Debouncing
