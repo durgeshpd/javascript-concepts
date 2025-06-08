@@ -17,4 +17,4 @@ This repository contains my learning notes and practice code for JavaScript conc
 - this keyword
 - Currying
 - Call, Apply, and Method
-- Throttling
+- Event bubbling and capturing
